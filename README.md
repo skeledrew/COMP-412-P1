@@ -3,6 +3,10 @@
 ## Introduction
 
 hellw.py is a basic "Hello World" program written in Python 3. 
+
+average.py takes a file called input.txt, containing multiple integers
+(one per line), and calculates and prints the average of those integers.
+
 The Python 3 interpreter implements the latest version of the language.
 
 ## Installation
@@ -20,6 +24,9 @@ to the folder you saved to and execute with "python3 hellw.py".
 
 Alternatively, if .py files are associated with a Python
 interpreter, you can double-click the script to run it.
+
+average.py can be run the same as hellw.py, but the file input.txt
+must be present in the same folder and must have at least 1 integer.
 
 
 GOOD LUCK!
